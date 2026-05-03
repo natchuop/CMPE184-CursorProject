@@ -4,3 +4,6 @@ This repo contains demo files for our CurXecute vulnerability presentation.
 ## Contents
 - .env — sensitive credentials (demo purposes only)
 - scanner.py — repository safety scanner
+
+## Scanner
+python scanner.py <repo-folder>
